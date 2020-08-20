@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cse330-fall-2019/module6-group-module6-robert-tommy#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "dark-mode": "^3.0.0",
     "fs": "0.0.1-security",
     "howler": "^2.1.2",
